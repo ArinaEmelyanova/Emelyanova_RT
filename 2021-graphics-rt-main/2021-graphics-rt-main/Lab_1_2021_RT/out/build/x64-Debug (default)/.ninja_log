@@ -1,0 +1,24 @@
+# ninja log v5
+32	1677	637621765	CMakeFiles/rt_sample_new.dir/Material.cpp.obj	712b0d0b41bcfad
+1	1614	637621765	CMakeFiles/rt_sample_new.dir/Geometry.cpp.obj	f33bbb3c8bee3b3f
+55	1619	637621031	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	c93fd08c7d2105a7
+95	1963	637621508	CMakeFiles/rt_sample_new.dir/main.cpp.obj	c58178c3effdfc9c
+81	1653	637613204	CMakeFiles/rt_sample_new.dir/Camera.cpp.obj	a373920fc0838657
+2039	2628	637621032	rt_sample_new.exe	588105662d606248
+28	1346	637623284	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	c93fd08c7d2105a7
+1	1767	637623284	CMakeFiles/rt_sample_new.dir/main.cpp.obj	c58178c3effdfc9c
+1768	2269	637623284	rt_sample_new.exe	588105662d606248
+70	2523	637687702	CMakeFiles/rt_sample_new.dir/Material.cpp.obj	712b0d0b41bcfad
+1	2562	637687702	CMakeFiles/rt_sample_new.dir/Geometry.cpp.obj	f33bbb3c8bee3b3f
+153	2597	637687702	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	c93fd08c7d2105a7
+28	2717	637687702	CMakeFiles/rt_sample_new.dir/Camera.cpp.obj	a373920fc0838657
+126	2938	637687702	CMakeFiles/rt_sample_new.dir/main.cpp.obj	c58178c3effdfc9c
+2939	3749	637687703	rt_sample_new.exe	588105662d606248
+1	1294	637687949	CMakeFiles/rt_sample_new.dir/Geometry.cpp.obj	f33bbb3c8bee3b3f
+78	1302	637687949	CMakeFiles/rt_sample_new.dir/Material.cpp.obj	712b0d0b41bcfad
+36	1873	637687950	CMakeFiles/rt_sample_new.dir/Camera.cpp.obj	a373920fc0838657
+167	2196	637687950	CMakeFiles/rt_sample_new.dir/main.cpp.obj	c58178c3effdfc9c
+1	621	637687966	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	c93fd08c7d2105a7
+621	1346	637687967	rt_sample_new.exe	588105662d606248
+1	834	637688087	CMakeFiles/rt_sample_new.dir/RayTracer.cpp.obj	c93fd08c7d2105a7
+834	1428	637688088	rt_sample_new.exe	588105662d606248
